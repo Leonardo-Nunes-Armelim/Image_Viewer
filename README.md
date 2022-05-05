@@ -33,6 +33,7 @@ Futuramente seria interessante corrigir os bugs encontrados item “Dificuldades
 Eu aprendi bastante construindo essa ferramenta, mesmo utilizando apenas 12 horas de desenvolvimento no total. Ainda não estou muito satisfeito com algumas funcionalidades como demonstradas no item “Dificuldades Encontradas”, mas fiquei feliz de ter desenvolvido uma ferramenta GUI de visualizar imagens em C++.
 
 - ***Como Usar a Ferramenta***
+
 1 – Colocar o cominho da imagem de dentro do seu computador na caixa de texto superior esquerda ou selecionar o arquivo .png no botão “Search File”.
 
 2 – Após ter o link completo do local da imagem, clicar no botão “Load”. Isso fará com que o link da imagem seja armazenada na barra de rolagem na parte inferior da ferramenta onde está escrito “Select Image Here:”
