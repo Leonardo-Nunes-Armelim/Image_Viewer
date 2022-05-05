@@ -4,7 +4,7 @@
 
 ## Relatório
 
-* ***Decidiu-se utilizar o formato .png***
+>>> ***Decidiu-se utilizar o formato .png*** <<<
 
 - ***Método Utilizado:***
 
