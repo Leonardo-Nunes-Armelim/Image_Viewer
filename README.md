@@ -12,7 +12,7 @@ A metodologia que eu utilizei foi o Agile, onde em cada sprint adicionei uma nov
 
 - ***Dificuldades Encontradas:***
 
-1 – Quando o zoom é aplicado, a imagem perde um pouco de resolução. Pesquisei outras alternativas para solucionar esse problema mas não identifique nenhuma solução para isso.
+1 – Quando o zoom é aplicado, a imagem perde um pouco de resolução. Pesquisei outras alternativas para solucionar esse problema, mas não identifique nenhuma solução para isso.
 
 2 – Ao aplicar zoom, mover a imagem com um dos botões (Up, Left, Right e Down) e posteriormente rotacionar a imagem para qualquer um dos lados o ponto focal da imagem visualizada muda, e consequentemente não temos a imagem desejada rotacionada, mas sim um outro ponto da imagem que é exibida rotacionada.
 
@@ -28,11 +28,11 @@ Procurei desenvolver a solução focando os requisitos obrigatórios e as funcio
 
 - ***Possíveis Melhorias Futuras***
 
-Futuramente seria interessante corrigir os bugs encontrados item “Dificuldades Encontradas”. Além disso poderia ser acrescentadas mais funcionalidades como fazer um zoom na imagem, rotacionar, selecionar a tela desejada, fazer a aplicação de brilho e contraste e por fim salvar a imagem final em um outro arquivo, como por exemplo .png.
+Futuramente seria interessante corrigir os bugs encontrados item “Dificuldades Encontradas”. Além disso poderia ser acrescentadas mais funcionalidades como fazer um zoom da imagem, rotacionar, selecionar a tela desejada, fazer a aplicação de brilho e contraste e por fim salvar a imagem final em um novo arquivo, como por exemplo .png.
 
 - ***Minha Avaliação do Resultado***
 
-Eu aprendi bastante construindo essa ferramenta, mesmo utilizando apenas 12 horas de desenvolvimento no total. Ainda não estou muito satisfeito com algumas funcionalidades como demonstradas no item “Dificuldades Encontradas”, mas fiquei feliz de ter desenvolvido uma ferramenta GUI de visualizar imagens em C++.
+Eu aprendi bastante construindo essa solução, mesmo consumindo 12 horas de desenvolvimento no total. Ainda não estou muito satisfeito com algumas funcionalidades como demonstradas no item “Dificuldades Encontradas”, mas fiquei feliz de ter desenvolvido uma ferramenta GUI (Graphical User Interface) de visualizar imagens em C++.
 
 - ***Como Usar a Ferramenta***
 
