@@ -4,7 +4,7 @@
 
 ## Relatório
 
-***>>>Decidiu-se utilizar o formato .png<<<***
+***>>>Optei pelo uso do formato .png<<<***
 
 - ***Método Utilizado:***
 
@@ -12,7 +12,7 @@ A metodologia que eu utilizei foi o Agile, onde em cada sprint adicionei uma nov
 
 - ***Dificuldades Encontradas:***
 
-1 – Quando o zoom é aplicado, a imagem perde um pouco de resolução.
+1 – Quando o zoom é aplicado, a imagem perde um pouco de resolução. Pesquisei outras alternativas para solucionar esse problema mas não identifique nenhuma solução para isso.
 
 2 – Ao aplicar zoom, mover a imagem com um dos botões (Up, Left, Right e Down) e posteriormente rotacionar a imagem para qualquer um dos lados o ponto focal da imagem visualizada muda, e consequentemente não temos a imagem desejada rotacionada, mas sim um outro ponto da imagem que é exibida rotacionada.
 
@@ -20,11 +20,11 @@ A metodologia que eu utilizei foi o Agile, onde em cada sprint adicionei uma nov
 
 4 – A mesma explicação do item 3 serve para o contraste.
 
-5 –
-
 - ***Técnicas Aplicadas***
 
-Primeiro procurei entender como funcionava a seleção
+Para o desenvolvimento da ferramenta utilizei ...
+
+Procurei desenvolver a solução focando os requisitos obrigatórios e as funcionalidades citadas. Na sequência procurei agregar os demais requisitos “Bônus”.
 
 - ***Possíveis Melhorias Futuras***
 
