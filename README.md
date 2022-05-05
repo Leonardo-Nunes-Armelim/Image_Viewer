@@ -1,6 +1,8 @@
 #Image Viewer
 
-(https://raw.githubusercontent.com/Leonardo-Nunes-Armelim/Image_Viewer/master/images/Image%20Viewer.png)
+Imagem de ilutração
+
+![Image Viewer](https://raw.githubusercontent.com/Leonardo-Nunes-Armelim/Image_Viewer/master/images/Image%20Viewer.png)
 
 ## Relatório
 
