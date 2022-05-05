@@ -4,11 +4,11 @@
 
 ## Relatório
 
-- Método utilizado:
+- ***Método Utilizado:***
 
 O método que eu utilizei foi o de Sprint, onde em cada sprint foi sendo adicionado uma funcionalidade.
 
-- Dificuldades Encontradas:
+- ***Dificuldades Encontradas:***
 
 1 – Quando o zoom é aplicado, a imagem perde um pouco de resolução
 
@@ -20,3 +20,4 @@ O método que eu utilizei foi o de Sprint, onde em cada sprint foi sendo adicion
 
 5 –
 
+- ***Técnicas Aplicadas***
