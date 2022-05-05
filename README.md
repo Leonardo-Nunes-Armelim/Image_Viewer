@@ -8,7 +8,7 @@
 
 - ***Método Utilizado:***
 
-O método que eu utilizei foi o de Sprint, onde em cada sprint foi sendo adicionado uma funcionalidade.
+A metodologia que eu utilizei foi o Agile, onde em cada sprint adicionei uma nova funcionalidade.
 
 - ***Dificuldades Encontradas:***
 
