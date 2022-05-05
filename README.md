@@ -1,7 +1,4 @@
-#Image Viewer
-
-
-
+# Image Viewer
 
 Imagem de ilutração
 
