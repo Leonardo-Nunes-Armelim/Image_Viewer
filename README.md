@@ -4,6 +4,8 @@
 
 ## Relatório
 
+*Decidiu-se utilizar o formato .png
+
 - ***Método Utilizado:***
 
 O método que eu utilizei foi o de Sprint, onde em cada sprint foi sendo adicionado uma funcionalidade.
@@ -43,15 +45,3 @@ Eu aprendi bastante construindo essa ferramenta, mesmo utilizando apenas 12 hora
 4 – Para visualizar a imagem selecionada na barra de rolagem clique no botão “View / Reset View”.
 
 5 – Depois é só utilizar os demais botões para ter uma melhor visão da imagem.
-
-6 –
-
-7 –
-
-8 –
-
-9 –
-
-10 –
-
-
