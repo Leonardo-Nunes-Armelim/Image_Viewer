@@ -22,7 +22,7 @@ A metodologia que eu utilizei foi o Agile, onde em cada sprint adicionei uma nov
 
 - ***Técnicas Aplicadas***
 
-Para o desenvolvimento da ferramenta utilizei ...
+Para o desenvolvimento da ferramenta utilizei C++ com a ferramenta Qt.
 
 Procurei desenvolver a solução focando os requisitos obrigatórios e as funcionalidades citadas. Na sequência procurei agregar os demais requisitos “Bônus”.
 
