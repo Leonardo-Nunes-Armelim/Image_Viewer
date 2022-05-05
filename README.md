@@ -36,24 +36,13 @@ Eu aprendi bastante construindo essa solução, mesmo consumindo 12 horas de des
 
 - ***Como Usar a Ferramenta***
 
-1 – Colocar o caminho da imagem de dentro do seu computador na caixa de texto superior esquerda ou selecionar o arquivo .png no botão “Search File”.
+1 – Colocar o caminho da imagem de dentro do seu computador (Path), na caixa de texto superior da tela da solução ou selecionar o arquivo .png no botão “Search File”.
 
-2 – Após ter o link completo do local da imagem, clicar no botão “Load”. Isso fará com que o link da imagem seja armazenada na barra de rolagem na parte inferior da ferramenta onde está escrito “Select Image Here:”
+2 – Após ter o link completo do local da imagem, clicar no botão “Load”. Isso fará com que o link da imagem seja armazenada na barra de rolagem, na parte inferior da ferramenta, onde está escrito “Select Image Here:”
 
 3 – Selecione a imagem desejada na barra de rolagem.
 
 4 – Para visualizar a imagem selecionada na barra de rolagem clique no botão “View / Reset View”.
 
 5 – Depois é só utilizar os demais botões para ter uma melhor visão da imagem.
-
-6 –
-
-7 –
-
-8 –
-
-9 –
-
-10 –
-
 
